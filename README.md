@@ -26,28 +26,31 @@ Built as part of **AI for Bharat – Week 1: Micro-Tools**.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
+
 ai4bharat-microtool-week1/
-│
 ├── public/
+│ └── index.html
 ├── src/
+│ ├── App.jsx
+│ ├── main.jsx
 │ ├── components/
+│ │ ├── UploadDropzone.jsx
+│ │ └── PaletteGrid.jsx
 │ ├── utils/
+│ │ └── extractColors.js
 │ └── styles/
+│ └── index.css
 ├── .kiro/
 │ ├── kiro-notes.md
-│ ├── kiro-snippets/
-│ └── kiro-prompt-recording.txt
+│ ├── kiro-prompt-recording.txt
+│ └── kiro-snippets/
+│ └── extractColors.js
 ├── package.json
 ├── vite.config.js
 ├── tailwind.config.cjs
 ├── amplify.yml
 └── README.md
-
-yaml
-Copy code
-
----
 
 ## ▶️ Run Locally
 
