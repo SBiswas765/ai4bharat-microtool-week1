@@ -116,4 +116,4 @@ This project is open for learning and demonstration under AI for Bharat.
 ---
 
 ## 👨‍💻 Author
-Somaditya Biswas — AI for Bharat Participant
+Somaditya Biswas
