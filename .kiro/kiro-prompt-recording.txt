@@ -1,0 +1,17 @@
+Prompt 1 (2025-11-29 10:00 AM):
+"Help me create a simple color palette picker using React + Vite. Include file structure and Tailwind setup."
+
+Prompt 2 (2025-11-29 10:07 AM):
+"Create the extractColorsFromImage function using color-thief-browser."
+
+Prompt 3 (2025-11-29 10:12 AM):
+"Write the UploadDropzone component with drag-and-drop and click-to-upload."
+
+Prompt 4 (2025-11-29 10:20 AM):
+"Create the PaletteGrid component with color blocks and copy buttons."
+
+Prompt 5 (2025-11-29 10:30 AM):
+"Generate a clean README.md for the GitHub project."
+
+Prompt 6 (2025-11-29 10:40 AM):
+"Prepare the AWS Builder Center blog outline and screenshots list."
